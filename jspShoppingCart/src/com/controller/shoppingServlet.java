@@ -31,7 +31,7 @@ public class shoppingServlet extends HttpServlet {
 
 		p = bl.serchbyid(id1);
 		int id = p.getId();
-
+//hi this is git hub
 		/*
 		 * String action=request.getParameter("ordernow");
 		 * System.out.println("action:"+action);
